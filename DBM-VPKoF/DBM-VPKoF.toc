@@ -1,0 +1,15 @@
+## Interface: 30300
+## X-Min-Interface: 30300
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |c00ff00ffVoicepack from Knight of sunwell
+## Title-ruRU: |cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |c00ff00ffVoicepack from Knight of sunwell
+## Notes: Озвучка для DBM от легендарной гильдии Knight of Sunwell
+## Notes-ruRU: Озвучка для DBM от легендарной гильдии Knight of Sunwell
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: AdmiiraL
+## Version: 11.0.0
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: KoF by AdmiiraL
+## X-DBM-Voice-ShortName: KoF
+## X-DBM-Voice-Version: 11
+## X-DBM-Voice-HasCount: 1
